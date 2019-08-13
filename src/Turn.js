@@ -22,6 +22,5 @@ class Turn {
 
 }
 
-// giveFeedback - method that returns either ‘incorrect!’ or ‘correct!’ based on whether the guess is correct or not.
 
 module.exports = Turn;
