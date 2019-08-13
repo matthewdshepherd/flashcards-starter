@@ -10,5 +10,3 @@ class Deck {
 }
 
 module.exports = Deck;
-
-// deck.countCards(); // => 3
