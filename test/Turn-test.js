@@ -67,9 +67,8 @@ describe('Turn', function () {
     turn1.giveFeedback();
     turn2.giveFeedback();
 
-    expect(turn1.giveFeedback()).to.equal('incorrect');
+    expect(turn1.giveFeedback()).to.equal('incorrect!');
     expect(turn2.giveFeedback()).to.equal('correct!');
-
   })
 
 });
