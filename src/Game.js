@@ -10,6 +10,7 @@ const Round = require('../src/Round');
 class Game {
   constructor() {
     this.cardsArray = [];
+    this.startTime;
   }
 
   printMessage(deck, round) {
@@ -22,6 +23,7 @@ class Game {
   }
 
   start() {
+    this.startTime = Date.now()
     this.cardsArray = prototypeQuestions.map(function(cardObj) {
       const card = new Card(cardObj.id, cardObj.question, cardObj.answers, cardObj.correctAnswer); 
       return card;
