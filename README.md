@@ -4,16 +4,16 @@
 
 I am a student at Turing School of Software and Design, whom provioded the project specifications. This project focused on Test Driven Development where we would write tests then code to pass the test.
 
-![flash cards example gif](https://media.giphy.com/media/1zkb1q58eTiTH6D7wc/giphy.gif)
+![flash cards example gif](images/flash-cards.gif)
 
 ## Wanna Play?
 
-Clone down repo (from your GitHub) here[]. 
+Clone down repo (from your GitHub) here[https://github.com/matthewdshepherd/flashcards-starter]. 
 
 In your terminal cd into a comfortable spot, like a file in documents. for there:
 
 ```bash
-git clone [the clone link here]
+git clone https://github.com/matthewdshepherd/flashcards-starter.git
 ```
 Once you have cloned the repo, change into the directory. 
 
