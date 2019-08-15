@@ -8,7 +8,7 @@ I am a student at Turing School of Software and Design, whom provioded the proje
 
 ## Wanna Play?
 
-Clone down repo (from your GitHub) here[https://github.com/matthewdshepherd/flashcards-starter]. 
+Clone down repo (from your GitHub) [here](https://github.com/matthewdshepherd/flashcards-starter). 
 
 In your terminal cd into a comfortable spot, like a file in documents. for there:
 
