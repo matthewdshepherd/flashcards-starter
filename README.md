@@ -10,12 +10,21 @@ I am a student at Turing School of Software and Design, whom provioded the proje
 
 Clone down repo (from your GitHub) [here](https://github.com/matthewdshepherd/flashcards-starter). 
 
-In your terminal cd into a comfortable spot, like a file in documents. for there:
+In your terminal cd into a comfortable spot, like a file in documents. 
+From there:
 
 ```bash
 git clone https://github.com/matthewdshepherd/flashcards-starter.git
 ```
 Once you have cloned the repo, change into the directory. 
+
+Install the library dependencies. Run:
+
+```bash
+npm install
+```
+
+To verify that it is setup correctly, run `npm test` in your terminal. 
 
 **Are you ready for some serious fun about things you might know nothing about?**
 
